@@ -1,0 +1,2 @@
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawnContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawnContent\obj\x86\Debug\ArdentDawnContent.contentprojResolveAssemblyReference.cache

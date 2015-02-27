@@ -1,0 +1,192 @@
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\ArdentDawnBG.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\ArdentDawn.exe
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\ArdentDawn.pdb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\ArdentDawn.exe
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\ArdentDawn.pdb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntSprite.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Bullet.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Tower.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinSprite.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankSprite.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Trap.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinRun1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinRun2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntRun1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntRun2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinAttack1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinAttack2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinAttack3.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinAttack4.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinSword1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinSword2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinSword3.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntAttack1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntAttack2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntPunch.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankAttack1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankAttack2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankAttack3.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankAttack4.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankClaw1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankClaw2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankRun1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankRun2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Fonts\Pericles24.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\ArdentDawn.exe.manifest
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\ArdentDawn.application
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\ArdentDawn.exe.manifest
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\ArdentDawn.application
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinConcept.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntConcept.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Menu.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankConcept.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Temple.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Credits.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\HowToPlay.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\ButtonMouseOver.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\InSilence.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\InSilence.wma
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\WOAH-OH-OH-AH-AH-AH-AAAA-HA-AH-AH-AH.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\WOAH-OH-OH-AH-AH-AH-AAAA-HA-AH-AH-AH.wma
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\HORSE.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ardent.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening3.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening4.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening5.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening6.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TowerInactive.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TrapInactive.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\HealthBar.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending3.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TowerIcon.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TowerInactiveIcon.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TrapIcon.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TrapInactiveIcon.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending10.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending11.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending12.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending4.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending5.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending6.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending7.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending8.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending9.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine1_VA1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine1_VA2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA1.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA2.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA3.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine1_VA1.wma
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine1_VA2.wma
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA1.wma
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA2.wma
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA3.wma
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\Battle.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\Battle.wma
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\Theme.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\Theme.wma
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Videos\My Movie.xnb
+C:\Users\Dubforce\Documents\Visual Studio 2010\Projects\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Videos\My Movie.wmv
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\ArdentDawnBG.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntSprite.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Bullet.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Tower.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinSprite.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankSprite.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Trap.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinRun1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinRun2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntRun1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntRun2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinAttack1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinAttack2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinAttack3.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinAttack4.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinSword1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinSword2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinSword3.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntAttack1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntAttack2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntPunch.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankAttack1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankAttack2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankAttack3.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankAttack4.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankClaw1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankClaw2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankRun1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankRun2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\AssassinConcept.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GruntConcept.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Menu.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TankConcept.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Temple.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Credits.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\HowToPlay.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\ButtonMouseOver.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ardent.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening3.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening4.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening5.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Opening6.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TowerInactive.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TrapInactive.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\HealthBar.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending3.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TowerIcon.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TowerInactiveIcon.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TrapIcon.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\TrapInactiveIcon.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending10.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending11.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending12.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending4.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending5.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending6.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending7.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending8.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Textures\Ending9.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Fonts\Pericles24.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\InSilence.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\WOAH-OH-OH-AH-AH-AH-AAAA-HA-AH-AH-AH.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine1_VA1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine1_VA2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA1.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA2.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA3.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\Battle.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\Theme.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\HORSE.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Videos\My Movie.xnb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\InSilence.wma
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\WOAH-OH-OH-AH-AH-AH-AAAA-HA-AH-AH-AH.wma
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine1_VA1.wma
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine1_VA2.wma
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA1.wma
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA2.wma
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\FF_Cine2_VA3.wma
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\Battle.wma
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Sounds\Theme.wma
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\Content\Videos\My Movie.wmv
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\ArdentDawn.exe.manifest
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\ArdentDawn.application
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\ArdentDawn.exe
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\bin\x86\Debug\ArdentDawn.pdb
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\ArdentDawn.csprojResolveAssemblyReference.cache
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\ArdentDawn.exe.manifest
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\ArdentDawn.application
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\ArdentDawn.exe
+C:\Users\max\Desktop\AD 6AM\ArdentDawn\ArdentDawn\ArdentDawn\obj\x86\Debug\ArdentDawn.pdb
